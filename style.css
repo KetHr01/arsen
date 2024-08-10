@@ -1,0 +1,122 @@
+body {
+    font-family: sans-serif;
+    
+}
+header{
+    display: flex;
+}
+h1{
+    color: rgb(255, 0, 0);
+    text-align:center;
+    margin-left: 240px;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+
+.tgh{
+    background-color: black;
+     align-items: center;
+    display: flex;
+}
+.gtp{
+   padding-left: 350px;
+   display: flex;
+}
+.ulp{
+    width:350px ;
+    height:250px ;
+    padding-left:20px ;
+    padding-right:10px ;
+    padding-bottom:30px ;
+    padding-top: 20px;
+
+}
+.fgt{
+     width:350px ;
+    height:250px ;
+      padding-left:20px ;
+    padding-right:10px ;
+    padding-bottom:30px ;
+    padding-top: 20px;
+
+   
+}
+.tph{
+    background-color: black;
+    align-items: center;
+    display: flex;
+    
+}
+.jool{
+    color:white;
+    padding-left: 20px;
+}
+.btn{
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    padding: 12px;
+}
+nav{
+display: flex;
+justify-content: space-around;
+margin-bottom: 10px;
+}
+
+.btn:hover{
+    font-size: 25px;
+    background-color: white;
+    color: black;
+    padding: 12px;
+    transition: 0.5s;
+}
+.rtp{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
+.rer{
+    border-radius: 55px;
+    margin-bottom: 18px;
+    margin-left:10px ;
+    margin-bottom: 10px;
+    margin-top:10px;
+}
+.typ{
+     align-items: center;
+    display: flex;
+    background-color: black;
+}
+.urp{
+    color: white;
+    font-size:15px ;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.lup{
+    background-color: black;
+   
+   
+   
+}
+.kup{
+    color: white;
+    font-size: 18px;
+}
+.kap{
+    margin-left:45px;
+    color: white;
+    font-size: 20px;
+}
+.kyp{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+.r {
+    margin-bottom: 10px;
+}
